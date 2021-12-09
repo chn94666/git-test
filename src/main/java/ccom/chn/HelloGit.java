@@ -16,6 +16,7 @@ public class HelloGit {
         System.out.println("hello 修改2");
         System.out.println("hello git 4");
         System.out.println("hello git master test");
+        System.out.println("hot-fix test");
 
     }
 }
