@@ -14,6 +14,7 @@ public class HelloGit {
 
         System.out.println("hello git1 修改1");
         System.out.println("hello 修改2");
+        System.out.println("hello git 4");
 
     }
 }
